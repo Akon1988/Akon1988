@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Akon1988
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Akon1988/Akon1988 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->https://forums.macrumors.com/threads/upgrading-from-a-patched-monterey-on-a-mbp-9-2-13-inch-mid-2012-to-ventura.2399985/
+Legacy Metal Graphics Support and macOS Ventura - Sonoma #1008​
+Download and build macOS Installers​
+Building and installing OpenCore
